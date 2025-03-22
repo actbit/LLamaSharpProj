@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLamaSharpProj", "LLamaSharpProj\LLamaSharpProj.csproj", "{DB4BE5F8-E8E4-4A70-B891-4CFDFE5796EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4BE5F8-E8E4-4A70-B891-4CFDFE5796EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4BE5F8-E8E4-4A70-B891-4CFDFE5796EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4BE5F8-E8E4-4A70-B891-4CFDFE5796EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4BE5F8-E8E4-4A70-B891-4CFDFE5796EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580A5C07-57DE-4AE1-AAF5-E9C9062F7635}
+	EndGlobalSection
+EndGlobal
